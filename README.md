@@ -14,7 +14,6 @@ I'm a MSc student in **Bioinformatics for Computational Genomics** at @PoliMi an
 
 ### 💻 Bioinformatics & Tech Toolbox
 
-| Category | Tools & Technologies |
 | :--- | :--- |
 | **Languages** | `Python` • `R` • `Bash` |
 | **Scientific Libraries** | `NumPy` • `Pandas` • `SciPy` • `Scikit-learn` • `PyTorch` • `Biopython` • `Bioconductor` • `MONAI` |
