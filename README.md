@@ -1,8 +1,8 @@
 ## Hi there, I'm Annachiara! 👋
 
-I'm a MSc student in **Bioinformatics for Computational Genomics** at @PoliMi and @UniMi🧬. I am currently based in Denmark for an exchange semester at @KU.
+I'm a MSc student in **Bioinformatics for Computational Genomics** at @PoliMi and @UniMi🧬. I am currently based in Copenaghen for an exchange semester at @KU.
 
-### 🔬Research Interest:
+### 🔬Research Interests:
 
 - 🔭**Medical Image Analysis**
 - 🧪**Multi-Omics Integration**
