@@ -3,6 +3,8 @@
 I'm a MSc student in **Bioinformatics for Computational Genomics** at @PoliMi and @UniMi🧬. I am currently based in Denmark for an exchange semester at @KU.
 
 ### 🔬Research Interest:
+---
+
 - 🔭**Medical Image Analysis**
 - 🧪**Multi-Omics Integration**
 - 🫆**Next-Generation Sequencing Pipelines**
@@ -22,13 +24,6 @@ I'm a MSc student in **Bioinformatics for Computational Genomics** at @PoliMi an
 | **Utilities & Workflow** | `Git / GitHub` • `LaTeX` • `Docker` • `Conda` |
 
 ---
-
-### 📊 GitHub Activity & Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radial&hide_border=true" alt="Top Languages" height="150" />
-</p>
 
 <!--
 **annachiaramoia/annachiaramoia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
